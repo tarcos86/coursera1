@@ -1,1 +1,1 @@
-https://tarcos86.github.io/coursera1/module1-solution
+https://tarcos86.github.io/coursera1/module2-solution
